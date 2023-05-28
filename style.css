@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+}
+.posterContainer {
+  display: block;
+  margin: 10px auto;
+  background-color: aqua;
+  border: dashed blue;
+  width: 50vw;
+  padding: 25px;
+}
+
+.topText {
+  font-size: 50px;
+  border-top: solid blue;
+  border-bottom: solid blue;
+  line-height: 0;
+  margin: 0 100px;
+}
+
+.nameText {
+  font-size: 40px;
+}
+
+.image {
+  border: solid blue;
+  width: 75%;
+  height: 100%;
+}
+
+.descriptionText {
+  margin-top: 10px;
+  border: 4px solid blue;
+  font-size: 12px;
+  background-image: url("https://images.template.net/96315/spongebob-flower-background-yt8wo.png");
+}
+
+.description {
+  font-size: 30px;
+}
+ul {
+  list-style: none;
+}
+
+.item {
+  font-size: 24px;
+  text-align: left;
+}
