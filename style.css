@@ -37,6 +37,7 @@ body {
 
 .description {
   font-size: 30px;
+  margin-top: 25px;
 }
 ul {
   list-style: none;
@@ -45,4 +46,10 @@ ul {
 .item {
   font-size: 24px;
   text-align: left;
+}
+
+.rewardText {
+  border: dotted blue;
+  font-size: 24px;
+  margin-top: 25px;
 }
